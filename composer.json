@@ -1,5 +1,5 @@
 {
-    "name": "tenancy/tenancy",
+    "name": "hectordev15/tenancy",
     "description": "Creating multi tenant saas from your Laravel app with ease",
     "keywords": ["laravel", "multi-tenant", "saas", "tenancy", "aws", "gce"],
     "license": "MIT",
@@ -10,7 +10,7 @@
     },
     "require-dev": {
         "fzaninotto/faker": "^1.7",
-        "laravel/laravel": "6.0.*",
+        "laravel/laravel": "6.*",
         "phpunit/phpunit": "^8.0",
         "mockery/mockery": "^1.0",
         "squizlabs/php_codesniffer": "^3.3",
